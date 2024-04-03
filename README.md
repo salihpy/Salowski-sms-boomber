@@ -7,5 +7,7 @@ Free SMS attack software that can be used for entertainment
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png">
 
 <h1>Use Uf<h1>
-<b>Download Python to your device and download pip installation requests
- through python. Then you can run the program comfortably<b>
+
+
+<code>pip install requests </code>
+
