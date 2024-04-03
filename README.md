@@ -8,6 +8,7 @@ Free SMS attack software that can be used for entertainment
 
 <h1>Use Uf<h1>
 
+<code>Download Python </code>
 
 <code>pip install requests </code>
 
